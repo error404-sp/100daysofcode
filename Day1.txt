@@ -1,0 +1,13 @@
+Day 1
+Date: 18-05-2020
+Achievement:   1. Completed Applied Visual Design of Freecodecamp.
+               2. Started  a pure CSS koala image.
+               3. Resumed learning python from  a course.
+               
+Details:       1. Learnt the concepts of scale, skewX ,skewY , keyframes , animation-name ,animation-iteration-count ,animation-duration ,animation-timing-function in CSS.
+               2. Applied the concepts of width,height,positioning using percentage in pure-CSS.
+               3. Learnt the concepts of pure and non-pure functions, difference in print and return and control in Python3.
+               
+Links:         1. https://www.freecodecamp.org/ 
+               2. https://medium.com/coding-artist/a-beginners-guide-to-pure-css-images-ef9a5d069dd2#.y185e0b6d
+               3. https://codepen.io/error404_sp/pen/rNOqrmp
