@@ -1,6 +1,6 @@
 Day 1
 Date: 18-05-2020
-Achievement:   1. Completed Applied Visual Design of Freecodecamp.
+Progress:      1. Completed Applied Visual Design of Freecodecamp.
                2. Started  a pure CSS koala image.
                3. Resumed learning python from  a course.
                
