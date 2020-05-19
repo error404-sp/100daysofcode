@@ -1,0 +1,11 @@
+Day 3
+
+Date: 19-05-2020
+
+Progress:     1. Completed till CSS Flexbox lessons of freecodecamp.
+              2. Learnt something new from a Python course.
+
+Details:      1. Learnt all the Accessibility concepts,Responsive Design concepts and Css Flexbox concepts of Html and CSS.
+              2. Learnt the concepts of conditional expressions,Boolean contexts,Boolean expression,Iteration and while statements.
+
+Links:        1. https://www.freecodecamp.org/
