@@ -1,0 +1,11 @@
+Day 2
+Date: 19-05-2020
+Achievement:   1. Completed the pure-CSS koala image.
+               2. Completed 13/22 lessons of Applied Accesibility of Freecodecamp.
+               
+Details:       1. Learnt the importance of <main>,<article>,<section>,<header>,<footer>,<nav>,<audio...control>,type attribute of source tg,figure,figcaption tag
+               2. Completed the project while adding animations leant from Day 1.
+    
+Links:         1. https://github.com/error404-sp/koala-purecss
+               2. https://www.freecodecamp.org/
+               3. https://medium.com/coding-artist/a-beginners-guide-to-pure-css-images-ef9a5d069dd2
