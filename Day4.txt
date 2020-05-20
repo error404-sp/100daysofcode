@@ -2,5 +2,5 @@ Day 4
 
 Progress:     Solved a few problems of Python course.
 
-Details:      Solved function related problems of hw01.py.It was supposed to be a revision of last three days but couldn't find time for it.Tomorrow ,I will revise.
+Details:    Solved function related problems of hw01.py.It was supposed to be a revision of last     three days but couldn't find time for it.Tomorrow ,I will revise.
 
