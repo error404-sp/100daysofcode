@@ -1,3 +1,5 @@
 Day 5
 
-Progress: Done with revision from freecodecamp,Solved a few python problems.Revised everything done on Day 1 ,Day 2 ,Day 3,and Day 4 .
+Progress: Done with revision from freecodecamp,
+          Solved a few python problems.
+          Revised everything done on Day 1 ,Day 2 ,Day 3,and Day 4 .
