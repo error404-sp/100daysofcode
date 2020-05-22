@@ -1,0 +1,10 @@
+Day 6
+
+Progress:    1)Learnt some color combination concept for CSS.
+             2)Completed CSS Grid concepts from freecodecamp.
+             3)Started working on Tribute Page using Mobile first approach.
+               Completed HTML Part and started working on CSS part.
+ 
+Links:      1)https://codepen.io/error404_sp/full/eYpxazQ
+            2)https://www.freecodecamp.org/
+            
