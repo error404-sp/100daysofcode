@@ -1,0 +1,7 @@
+Day 7
+
+Progress: Couldn't get much time due to exams prep.
+          Added CSS to the tribute page.Yet to make responsive.
+
+Link:     1) https://codepen.io/error404_sp/full/eYpxazQ
+          2) https://www.freecodecamp.org/
