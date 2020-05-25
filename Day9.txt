@@ -1,0 +1,4 @@
+Day 9
+ Progress: Made a bear-cub from pure CSS 
+            https://codepen.io/error404_sp/full/GRpLJam
+            Started working on python project.
