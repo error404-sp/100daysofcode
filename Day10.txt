@@ -1,0 +1,4 @@
+Day 10
+
+Progress:  Started the hog project of the python course.
+          
