@@ -1,0 +1,3 @@
+Day 13
+
+Progress: Learnt higher order functions of python course.Found it a little confusing.Will revise again tomorrow.
