@@ -1,1 +1,3 @@
-Did revision of Python course till Recursion.
+Day 18
+
+Progress: Did revision of Python course till Recursion.
