@@ -2,3 +2,5 @@ Day 21
 
 Progress:  Started working on google homepage clone.
             https://error404-sp.github.io/googlesearch_clone/
+            
+            Also solved problems from Hackerank in Python
