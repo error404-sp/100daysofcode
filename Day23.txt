@@ -1,0 +1,3 @@
+Day 23
+
+Progress: Started Basic javascript of freecodecamp.Completed 50% of it.
