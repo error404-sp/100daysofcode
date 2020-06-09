@@ -1,0 +1,3 @@
+Day 24
+
+Progress:  Learnt javascript from freecodecamp.Completed 65% of it.Updated portfolio to github.
