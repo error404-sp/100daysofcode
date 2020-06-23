@@ -1,0 +1,2 @@
+Progress: On fundamental concepts of javascript part 1.
+          Made liquid animation using CSS for the first time.
