@@ -1,0 +1,1 @@
+Completed first part of the fundamentals parts 2 of javascript from Odin project.
