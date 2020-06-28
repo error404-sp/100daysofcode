@@ -1,0 +1,3 @@
+Day 40
+
+Learnt strings from fundamentals part 2 javascript from Odin project
