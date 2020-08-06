@@ -1,0 +1,3 @@
+Started learning Java from educative.io
+Started frontend masters javascript
+Made Github readme file
