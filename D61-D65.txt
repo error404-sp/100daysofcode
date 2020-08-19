@@ -1,0 +1,8 @@
+Day 65
+Made pure css octacat
+
+Day 64
+Started learning about java project
+
+Day 63,62,61
+Made 404 error page
