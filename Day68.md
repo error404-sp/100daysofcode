@@ -1,5 +1,5 @@
-<summary> Continued learning from Java course till methods from codecademy</summary>
-<details>
+<details><summary> Continued learning from Java course till methods from codecademy</summary>
+
 **There are four types of data types in java**
 * int (positive,zero,negative no.s)
 * Boolean( true/false)
