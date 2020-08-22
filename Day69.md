@@ -1,5 +1,5 @@
-<summary>Started learning javascript from freecodecamp, learnt till Concatination with the plus equals operator.</summary>
-<details>
+<details><summary>Started learning javascript from freecodecamp, learnt till Concatination with the plus equals operator.</summary>
+
 **Javascript is a high level programmiing language**
 ### Comments
 `//` or `/* ... */`
