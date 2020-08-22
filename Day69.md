@@ -21,5 +21,10 @@ Assignment always goes from right to left
 * When javascript variables are declared, they have initial value of `undefined`.
 * If mathematical operation is performed on `undefined` , result will be `NaN`
 * If a string is concatinated with `undefined` variable, the string will be `undefined`
-###
+### Understanding Case sensitivity in variable
+came case is followed.
+### Operator
++= , -=, **=,/= 
+### Escaping literal quotes in strings
+
 </details>
