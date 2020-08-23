@@ -1,3 +1,5 @@
+**Trick for table markdown.**
+[Table generator](https://www.tablesgenerator.com/markdown_table)
 <details><summary>Started learning javascript from freecodecamp, learnt till Concatination with the plus equals operator.</summary>
 
 **Javascript is a high level programmiing language**
@@ -52,5 +54,4 @@ We can add single and double quotes to avoid backslash
  
 
 </details>
-**Trick for table markdown.**
-[Table generator](https://www.tablesgenerator.com/markdown_table)
+
