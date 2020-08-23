@@ -1,5 +1,5 @@
 **Trick for table markdown.**
-[Table generator](https://www.tablesgenerator.com/markdown_table)
+[Table generator](https://www.tablesgenerator.com/markdown_tables)
 <details><summary>Started learning javascript from freecodecamp, learnt till Concatination with the plus equals operator.</summary>
 
 **Javascript is a high level programmiing language**
